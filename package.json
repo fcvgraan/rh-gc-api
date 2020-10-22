@@ -1,0 +1,22 @@
+{
+  "name": "rh-gc-api",
+  "version": "1.0.0",
+  "description": "nodejs google cloud function api for runninghill recruitment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcvgraan/rh-gc-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcvgraan/rh-gc-api/issues"
+  },
+  "homepage": "https://github.com/fcvgraan/rh-gc-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
