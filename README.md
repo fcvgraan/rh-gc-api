@@ -5,13 +5,13 @@ nodejs google cloud function api for runninghill recruitment
 
 * I subsequently moved the code to Google Cloud functions and MongoDB Atlas also hosted on google cloud. 
 
+* MongoDB collections are stored in mongo-data/
+
 * MongoDB collections can be imported to MongoDB Atlas once you've created a free cluster at https://www.mongodb.com/cloud/atlas/register
 
 * Google cloud function source code is contained in function-source.zip and extracted to function-source/. You can upload the zip to google cloud console to run the api without auth. TODO: add auth
 
 * Cloud function source code doesn't need express, the REST methods are abstracted to a parameter in the request body and I control the update logic at the level of  the MongoDB driver, and it works with post or get requests
-
-* MongoDB collections are stored in mongo-data/
 
 * To test get requests for retrieving values: curl -X POST -H "Content-Type: application/json" --data '{"database": "<database_name>","collection": "<collection_name>","method": "get"}' https://europe-west2-runninghill.cloudfunctions.net/nodejs-mongodb-atlas-api
 
