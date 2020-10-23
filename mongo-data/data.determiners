@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5f919507092985cf99ce9b0e"
+  },
+  "value": "the"
+},{
+  "_id": {
+    "$oid": "5f919516092985cf99ce9b0f"
+  },
+  "value": "this"
+},{
+  "_id": {
+    "$oid": "5f919528092985cf99ce9b10"
+  },
+  "value": "that"
+},{
+  "_id": {
+    "$oid": "5f91954c092985cf99ce9b11"
+  },
+  "value": "what"
+}]

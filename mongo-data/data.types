@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "5f917579f1a955d9bd6c2d0a"
+  },
+  "value": "Noun"
+},{
+  "_id": {
+    "$oid": "5f9175e1f1a955d9bd6c2d0b"
+  },
+  "value": "Verb"
+},{
+  "_id": {
+    "$oid": "5f917608f1a955d9bd6c2d0c"
+  },
+  "value": "Adjective"
+},{
+  "_id": {
+    "$oid": "5f917633f1a955d9bd6c2d0d"
+  },
+  "value": "Adverb"
+},{
+  "_id": {
+    "$oid": "5f91765ff1a955d9bd6c2d0e"
+  },
+  "value": "Pronoun"
+},{
+  "_id": {
+    "$oid": "5f917693f1a955d9bd6c2d0f"
+  },
+  "value": "Preposition"
+},{
+  "_id": {
+    "$oid": "5f9176aff1a955d9bd6c2d10"
+  },
+  "value": "Conjunction"
+},{
+  "_id": {
+    "$oid": "5f9176e0f1a955d9bd6c2d11"
+  },
+  "value": "Determiner"
+},{
+  "_id": {
+    "$oid": "5f91bd4614ab83f807d43da7"
+  },
+  "value": "Exclamation"
+}]

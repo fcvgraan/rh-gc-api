@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5f918a78092985cf99ce9af0"
+  },
+  "value": "time"
+},{
+  "_id": {
+    "$oid": "5f918a98092985cf99ce9af1"
+  },
+  "value": "person"
+},{
+  "_id": {
+    "$oid": "5f918ad2092985cf99ce9af2"
+  },
+  "value": "year"
+}]

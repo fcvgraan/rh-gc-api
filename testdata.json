@@ -1,3 +1,3 @@
 
 
-{"database": "data","collection": "types","method": "put","item":{"value":"Exclamation2"},"itemId":"Exclamation"}
+{"database": "data","collection": "types","method": "get","item":{"value":"Exclamation2"},"itemId":"Exclamation"}

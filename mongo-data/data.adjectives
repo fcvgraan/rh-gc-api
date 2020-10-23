@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5f918e99092985cf99ce9af8"
+  },
+  "value": "good"
+},{
+  "_id": {
+    "$oid": "5f918ead092985cf99ce9af9"
+  },
+  "value": "new"
+},{
+  "_id": {
+    "$oid": "5f918f0c092985cf99ce9afa"
+  },
+  "value": "first"
+},{
+  "_id": {
+    "$oid": "5f918f1b092985cf99ce9afb"
+  },
+  "value": "last"
+}]

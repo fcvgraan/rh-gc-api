@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5f918fd6092985cf99ce9afc"
+  },
+  "value": "up"
+},{
+  "_id": {
+    "$oid": "5f918fef092985cf99ce9afd"
+  },
+  "value": "so"
+},{
+  "_id": {
+    "$oid": "5f9190a7092985cf99ce9afe"
+  },
+  "value": "out"
+},{
+  "_id": {
+    "$oid": "5f9190c1092985cf99ce9aff"
+  },
+  "value": "just"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5f9195af092985cf99ce9b12"
+  },
+  "value": "ah"
+},{
+  "_id": {
+    "$oid": "5f9195bd092985cf99ce9b13"
+  },
+  "value": "aha"
+},{
+  "_id": {
+    "$oid": "5f9195d2092985cf99ce9b14"
+  },
+  "value": "alas"
+},{
+  "_id": {
+    "$oid": "5f9195e5092985cf99ce9b15"
+  },
+  "value": "aw"
+}]

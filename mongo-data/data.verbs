@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "5f918bf3092985cf99ce9af3"
+  },
+  "value": "be"
+},{
+  "_id": {
+    "$oid": "5f918c0a092985cf99ce9af4"
+  },
+  "value": "have"
+},{
+  "_id": {
+    "$oid": "5f918c2c092985cf99ce9af5"
+  },
+  "value": "do"
+},{
+  "_id": {
+    "$oid": "5f918c3b092985cf99ce9af6"
+  },
+  "value": "say"
+},{
+  "_id": {
+    "$oid": "5f918c4c092985cf99ce9af7"
+  },
+  "value": "get"
+}]
