@@ -1,7 +1,7 @@
 # rh-gc-api
 nodejs google cloud function api for runninghill recruitment
 
-* The files in the root of this repo were used to test the nodeJS REST API with express routes to a local MongoDB instance, using the command node app.js
+* The files in the root of this repo were used to test the nodeJS REST API with express routes to a local MongoDB instance, by running the nodejs code using the command node app.js and calling endpoints with curl as described below.
 
 * I subsequently moved the code to Google Cloud functions and MongoDB Atlas also hosted on google cloud
 
